@@ -1,0 +1,22 @@
+alaCarteId,name,price,description,type
+1,chicken chop,9.899999619,chicken,main
+2,pork chop,9.899999619,pork,main
+3,lamb chop,12.89999962,lamb,main
+4,steak,14.89999962,beef,main
+5,grilled fish,9.899999619,fish,main
+6,cabonara,10.89999962,noodles,main
+7,bolognese,8.899999619,noodles,main
+8,beef burger,11.89999962,beef,main
+9,chicken burger,8.899999619,chicken,main
+10,fish burger,8.899999619,fish,main
+11,ice lemon tea,3,cold/hot,drinks
+12,milo,3,cold/hot,drinks
+13,coffee,3,cold/hot,drinks
+14,tea,3,cold/hot,drinks
+15,latte,3,cold/hot,drinks
+16,mango pudding,2.5,cold,desserts
+17,apple pie,2.5,cold,desserts
+18,cheesecake,3.900000095,cold,desserts
+19,chocolate cake,3.900000095,cold,desserts
+20,tiramisu,4.900000095,cold,desserts
+21,roasted chicken rice,6,chicken rice,main

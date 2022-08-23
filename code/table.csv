@@ -1,0 +1,11 @@
+tableNo,tableCapacity,isOccupied
+1,2,false 
+2,2,false 
+3,2,false 
+4,2,false 
+5,4,false 
+6,4,false 
+7,6,false 
+8,6,false 
+9,10,false 
+10,10,false 
